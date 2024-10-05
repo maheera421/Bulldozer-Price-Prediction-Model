@@ -28,7 +28,7 @@ To get started with this project, you'll need to set up your environment with th
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/maheera421/bulldozer-price-prediction.git
+    gh repo clone maheera421/Bulldozer-Price-Prediction-Model
     ```
 
 2. Install the required packages listed in the `requirements.txt` file:
